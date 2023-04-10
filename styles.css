@@ -24,14 +24,20 @@ td{
 
 .green{
     background-color: green;
+	height: 15px;
 }
 
 .blue{
     background-color: blue;
+	height: 15px;
 }
 #table-1, #table-2, #table-3{
 	width: 100%;
 }
 #table-2 {
 	height: 100px;
+	margin: 40px 0;
+}
+#t-image {
+	width: 33%;
 }
